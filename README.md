@@ -2,7 +2,6 @@
 
 ## 2016
 * 2016-06-2? Open Source Bridge 2016, Portland, Oregon (tentative, proposal submitted)
-* A Survey of Machine Learning Concepts, Tools & Techniques
   * [A Survey of Machine Learning Concepts, Tools & Techniques](http://opensourcebridge.org/proposals/1766)
 
 ## 2015
