@@ -9,9 +9,7 @@
   * [Diagnosing The Patient, Holistic Systems Thinking, System-As-Patient](http://www.slideshare.net/intltechventures/2015-seattle-code-camp-diagnosing-the-patient)
 
 ## 2008
-* 2008 Seattle Code Camp
+* 2008-01-26  Seattle Code Camp
   * Introduction to Drools
-
-## 2007
-* 2007 Seattle Code Camp
+* 2008-11-15  Seattle Code Camp
   * Continuous Integration with Hudson, Glassfish, and Subversion
